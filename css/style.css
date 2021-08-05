@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+}
+
+.container .menubar{
+  background-color: #fcc;
+  flex-basis: 250px;
+}
+
+.container .content{
+  background-color: #cfc;
+
+}
+
+.container .sidebar{
+  background-color: #ccf;
+  flex-basis: 150px;
+}
